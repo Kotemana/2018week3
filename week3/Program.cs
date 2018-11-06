@@ -13,6 +13,10 @@ namespace week3
             {
                 Console.WriteLine("commit me to github");
             }
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine("commit me to github");
+            }
             Console.ReadLine();
         }
     }
